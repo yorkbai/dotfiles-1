@@ -1,0 +1,54 @@
+--- Log opened Mon Oct 20 21:16:49 2014
+21:16 #alchemists: 9< drew> [12:45:36] yeah, it includes direction, but it is null or "" for the most part
+21:16 #alchemists: 9< drew> [12:45:41] only a few languages have had direction entered
+21:16 #alchemists: 9< drew> [12:45:52] l3thal: yes, just change to qq
+21:16 #alchemists: 9< drew> [12:45:54] q*
+21:16 #alchemists: 9<@nightshade427> [12:46:21] So this is good drew! 
+21:16 #alchemists: 9< l3thal> [12:46:24] thanks drew ;)
+21:16 #alchemists: 9< drew> [12:46:28] sure :)
+21:16 #alchemists: 9< drew> [12:46:50] should be deployed before long, I'll post in here when it's done
+21:16 #alchemists: 9< drew> [12:46:59] going to write a few tests and test it out a little more
+21:16 #alchemists: 9< drew> [12:47:05] but the basic cases are working now in my dev
+21:16 #alchemists: 9< l3thal> [12:47:09] awesome, thanks drew
+21:16 #alchemists: 9< drew> [14:48:32] done: https://auth.sovee.com/languages.json?q=es
+21:16 #alchemists: 9< drew> [14:48:52] also, it turned out I needed to make a couple changes form earlier which caused es-es to only return the es region in the list
+21:16 #alchemists: 9< drew> [14:49:13] so if you specify a region, it will be the only region listed
+21:16 #alchemists: 9< drew> [16:01:14] emacs 24.4 released: http://lists.gnu.org/archive/html/emacs-devel/2014-10/msg00713.html
+21:16 #alchemists: 9< drew> [16:02:37] is upgrading minor versions of emacs generally painless or painful?
+21:16 #alchemists: 9< l3thal> [19:11:10] drew: it's not that painful. 
+21:16 #dev: 9< boggs> [09:12:06] drew you were the one who gave the friday lunch talk with rack-mini-profiler gem in it right?
+21:16 #dev: 9<@drew> [09:12:24] yeah
+21:16 #dev: 9<@drew> [09:13:21] sure thing :)
+--- Log closed Mon Oct 20 21:16:49 2014
+--- Log opened Wed Oct 22 01:16:42 2014
+01:16 #alchemists: 9          drew [12:45:36] yeah, it includes direction, but it is null or "" for the most part
+01:16 #alchemists: 9          drew [12:45:41] only a few languages have had direction entered
+01:16 #alchemists: 9          drew [12:45:52] l3thal: yes, just change to qq
+01:16 #alchemists: 9          drew [12:45:54] q*
+01:16 #alchemists: 9@nightshade427 [12:46:21] So this is good drew! 
+01:16 #alchemists: 9        l3thal [12:46:24] thanks drew ;)
+01:16 #alchemists: 9          drew [12:46:28] sure :)
+01:16 #alchemists: 9          drew [12:46:50] should be deployed before long, I'll post in here when it's done
+01:16 #alchemists: 9          drew [12:46:59] going to write a few tests and test it out a little more
+01:16 #alchemists: 9          drew [12:47:05] but the basic cases are working now in my dev
+01:16 #alchemists: 9        l3thal [12:47:09] awesome, thanks drew
+01:16 #alchemists: 9          drew [14:48:32] done: https://auth.sovee.com/languages.json?q=es
+01:16 #alchemists: 9          drew [14:48:52] also, it turned out I needed to make a couple changes form earlier which caused es-es to only return the es region in the list
+01:16 #alchemists: 9          drew [14:49:13] so if you specify a region, it will be the only region listed
+01:16 #alchemists: 9          drew [16:01:14] emacs 24.4 released: http://lists.gnu.org/archive/html/emacs-devel/2014-10/msg00713.html
+01:16 #alchemists: 9          drew [16:02:37] is upgrading minor versions of emacs generally painless or painful?
+01:16 #alchemists: 9        l3thal [19:11:10] drew: it's not that painful. 
+01:16 #dev: 9         boggs [09:12:06] drew you were the one who gave the friday lunch talk with rack-mini-profiler gem in it right?
+01:16 #dev: 9         @drew [09:12:24] yeah
+01:16 #dev: 9         @drew [09:13:21] sure thing :)
+01:16 #dev: 9         @drew [09:31:37] good morning :)
+01:16 #beers: 9     @drew [11:16:37] umm.... oops
+01:16 #beers: 9     @drew [11:17:02] nobody will suspect a thing!
+01:16 #beers: 9     @drew [11:17:05] ha, nice
+01:16 #beers: 9     @drew [16:34:47] ha
+01:16 #beers: 9     @drew [16:35:15] looks like they're meeting today at Coolidge park "around where the pics were taken" and invited anyone who wants to come
+01:16 #beers: 9     @drew [16:36:53] looks like they're there now
+01:16 #beers: 9     @drew [16:37:10] http://www.reddit.com/r/funny/comments/2jwc52/we_need_more_people_like_this_guy/clfubcw
+01:16 #beers: 9     @drew [16:37:35] another post from him 1 minute ago saying they are there now
+01:16 #beers: 9      napi [16:38:30] drew has a frisbee 
+--- Log closed Wed Oct 22 01:16:42 2014
